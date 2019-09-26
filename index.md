@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Our experience leads your business to success
 
-You can use the [editor on GitHub](https://github.com/venuscloud-ltd/venuscloud-ltd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We have specialised in internet security and scalable cloud architecture since 2011. We have built many successful SaaS (Software as a Service) solutions and applications for iPhones and iPads. We advise on cloud security and firewalls. Our base is in London, United Kingdom.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our Latest Startup
+Our latest start-up Tegant VPN has been the signature of our success. We have poured much of our finest coding abilities into our own SaaS and offer the best possible VPN solutions to our customers.
 
-### Markdown
+Below, you will find a chart of how our user base has been growing rapidly since January 2019. Tegant VPN enjoys more than 1200 reviews with an average of 4.7 stars in the App Store.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Cloud Stack
+We utilise AWS cloud technology for our Restful APIs and make use of various services such as EC2, RDS and Redis, Postgres, Mysql, Nginx and uWSGI to achieve our goals.
 
-```markdown
-Syntax highlighted code block
+## Programming Languages
+We create our solutions in Python 3.7, Javascript and Swift 5.0
 
-# Header 1
-## Header 2
-### Header 3
+## Frameworks
+Flask, Django, JQuery, Jekyll, SQLAlchemy, Cocoa Touch (iOS) and Cocoa (MacOS) are our favourites.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/venuscloud-ltd/venuscloud-ltd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support and Contact
+Please get in touch with us at: info@venuscloud.com
