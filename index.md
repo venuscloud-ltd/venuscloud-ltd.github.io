@@ -5,7 +5,7 @@
 We have specialised in internet security and scalable cloud architecture since 2011. We have built many successful SaaS (Software as a Service) solutions and applications for iPhones and iPads. We advise on cloud security and firewalls. Our base is in London, United Kingdom.
 
 ## Our Latest Startup
-Our latest start-up Tegant VPN has been the signature of our success. We have poured much of our finest coding abilities into our own SaaS and offer the best possible VPN solutions to our customers.
+Our latest start-up [Tegant VPN](https://tegant.com) has been the signature of our success. We have poured much of our finest coding abilities into our own SaaS and offer the best possible VPN solutions to our customers.
 
 Below, you will find a chart of how our user base has been growing rapidly since January 2019. 
 
