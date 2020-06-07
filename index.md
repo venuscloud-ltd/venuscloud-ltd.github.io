@@ -7,11 +7,11 @@ We have specialised in internet security and scalable cloud architecture since 2
 ## Our Latest Startup
 Our latest start-up [Tegant VPN](https://tegant.com) has been the signature of our success. We have poured much of our finest coding abilities into our own SaaS and offer the best possible VPN solutions to our customers.
 
-Below, you will find a chart of how our user base has been growing rapidly since January 2019. 
+Below, you will find a chart of how our user base has been growing rapidly since January 2019 until June 2020. 
 
 <img src="tegant_user_growth.png" alt="Tegant User Growth Chart" style="display: block; margin: 0 auto;">
 
-Tegant VPN enjoys more than 1250 reviews with an average of 4.7 out of 5 stars in the App Store.
+Tegant VPN enjoys more than 3,625 five-star reviews in the App Store.
 
 <img src="tegant_reviews.png" alt="Tegant Reviews" style="display: block; margin: 0 auto;">
 
