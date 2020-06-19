@@ -16,11 +16,11 @@ Tegant VPN enjoys more than 3,625 five-star reviews in the App Store.
 <img src="tegant_reviews.png" alt="Tegant Reviews" style="display: block; margin: 0 auto;">
 
 ## Technology
-We utilise secured Restful APIs, Python 3.7, Javascript and Swift 5.0
+We utilise secured Restful APIs, Python 3.8, Javascript and Swift 5.0
 
 ## Trademark
 Tegant™ is a trademark of Venus Cloud Ltd.
 iPhone, iPad, Mac are trademarks of Apple. We are authorised by Apple to use these trademarks in our advertisement campaigns. 
 
-## Support and Contact
+## Contact
 Please get in touch with us at info@venuscloud.com
