@@ -20,6 +20,7 @@ We utilise secured Restful APIs, Python 3.8, Javascript and Swift 5.0
 
 ## Trademark
 Tegant™ is a trademark of Venus Cloud Ltd.
+
 iPhone, iPad, Mac are trademarks of Apple. We are authorised by Apple to use these trademarks in our advertisement campaigns. 
 
 ## Contact
