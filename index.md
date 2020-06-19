@@ -2,7 +2,7 @@
 
 ## Our experience leads your business to success
 
-We have specialised in internet security and scalable cloud architecture since 2011. We have built many successful SaaS (Software as a Service) solutions and applications for iPhones and iPads. We advise on cloud security and firewalls. Our base is in London, United Kingdom.
+We have specialised in internet security and scalable cloud architecture since 2011. We have built many successful SaaS (Software as a Service) solutions and applications for Web, iPhone, iPad and Mac. We advise on cloud security and firewalls. Our base is in London, United Kingdom.
 
 ## Our Latest Startup
 Our latest start-up [Tegant VPN](https://tegant.com) has been the signature of our success. We have poured much of our finest coding abilities into our own SaaS and offer the best possible VPN solutions to our customers.
@@ -15,14 +15,12 @@ Tegant VPN enjoys more than 3,625 five-star reviews in the App Store.
 
 <img src="tegant_reviews.png" alt="Tegant Reviews" style="display: block; margin: 0 auto;">
 
-## Cloud Stack
-We utilise AWS cloud technology for our Restful APIs and make use of various services such as EC2, RDS and Redis, Postgres, Mysql, Nginx and uWSGI to achieve our goals.
+## Technology
+We utilise secured Restful APIs, Python 3.7, Javascript and Swift 5.0
 
-## Programming Languages
-We create our solutions in Python 3.7, Javascript and Swift 5.0
-
-## Frameworks
-Flask, Django, JQuery, Jekyll, SQLAlchemy, Cocoa Touch (iOS) and Cocoa (MacOS) are our favourites.
+## Trademark
+Tegant™ is a trademark of Venus Cloud Ltd.
+iPhone, iPad, Mac are trademarks of Apple. We are authorised by Apple to use these trademarks in our advertisement campaigns. 
 
 ## Support and Contact
-Please get in touch with us at: info@venuscloud.com
+Please get in touch with us at info@venuscloud.com
