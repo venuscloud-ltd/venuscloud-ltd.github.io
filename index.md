@@ -16,12 +16,14 @@ Tegant VPN enjoys more than 3,625 five-star reviews in the App Store.
 <img src="tegant_reviews.png" alt="Tegant Reviews" style="display: block; margin: 0 auto;">
 
 ## Technology
-We utilise secured Restful APIs, Python 3.8, Javascript and Swift 5.0
+We love distributed systems. We utilise Python and Swift programming languages to make our dream come true.
 
-## Trademark
+## Trademarks
 Tegant™ is a trademark of Venus Cloud Ltd.
 
-iPhone, iPad, Mac are trademarks of Apple.  
+Apple, iPhone, iPad, iMac, Mac, and MacBook are trademarks of Apple. Apple has authorised us to use their trademarks within the text of Google sponsored links.
+
+We would like to thank 'Andrea Piacquadio' and 'cottonbro' for their excellent free stock photos that we utilised in our App Store campaigns.
 
 ## Contact
 Please get in touch with us at info@venuscloud.com
