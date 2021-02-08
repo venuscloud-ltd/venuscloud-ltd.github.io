@@ -16,7 +16,7 @@ Tegant VPN enjoys more than 3,625 five-star reviews in the App Store.
 <img src="tegant_reviews.png" alt="Tegant Reviews" style="display: block; margin: 0 auto;">
 
 ## Technology
-We love distributed systems. We utilise Python and Swift programming languages to make our dream come true.
+We love distributed systems. We utilise Python, Kotlin and Swift programming languages to make our dream come true.
 
 ## Trademarks
 Tegant™ is a trademark of Venus Cloud Ltd.
