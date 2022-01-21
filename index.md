@@ -5,7 +5,7 @@
 We have specialised in internet security and scalable cloud architecture since 2011. We have built many secure SaaS (Software as a Service) solutions and applications for Web, iPhone, iPad and Mac. We advise on cloud security, Soc2 compliance and firewalls. Our base is in London, United Kingdom.
 
 ## Technology
-We utilise Python, Bash, and Swift programming languages to build secure systems.
+We utilise Python, Bash, and Swift programming languages to build and automate secure systems.
 
 ## Trademarks
 Apple, iPhone, iPad, iMac, Mac, and MacBook are trademarks of Apple. Apple has authorised us to use their trademarks within the text of Google sponsored links.
