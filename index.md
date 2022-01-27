@@ -1,6 +1,6 @@
 <img src="logo_flat_bright.png" alt="Venus Cloud Company Logo" style="display: block; margin: 0 auto;">
 
-## Our experience leads your business to success
+## Our experience leads your SaaS business to success
 
 We have specialised in internet security and scalable cloud architecture since 2011. We have built many secure SaaS (Software as a Service) solutions and applications for Web, iPhone, iPad and Mac. We advise on AWS architecture, cloud security, SOC 2 compliance and firewalls. Our base is in London, United Kingdom.
 
