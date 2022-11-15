@@ -17,5 +17,6 @@ We would like to thank 'Andrea Piacquadio' and 'cottonbro' for their excellent p
 ## Contact
 Please get in touch with us at info@venuscloud.com
 
-## Policies
+<div align="center">
 [Privacy Policy](./privacy.html)
+</div>
