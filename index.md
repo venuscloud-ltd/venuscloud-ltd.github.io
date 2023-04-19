@@ -8,8 +8,6 @@ We have specialised in internet security and scalable cloud architecture since 2
 We utilise Python, Bash, Swift and Kotlin programming languages to build and automate secure systems.
 
 ## Trademarks
-Tegant™ is a trademark of Venus Cloud Ltd.
-
 Apple, iPhone, iPad, iMac, Mac, and MacBook are trademarks of Apple. Apple has authorised us to use their trademarks within the text of Google sponsored links.
 
 We would like to thank 'Andrea Piacquadio' and 'cottonbro' for their excellent photos that we utilised in our App Store campaigns.
