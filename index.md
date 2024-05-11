@@ -5,7 +5,7 @@
 We have specialised in AI (LLM), internet security and scalable cloud architecture since 2011. We have built many secure SaaS (Software as a Service) solutions and applications for Web, iPhone, iPad and Mac. We advise on AWS architecture, cloud security, SOC 2 compliance and firewalls. Our base is in London, United Kingdom.
 
 ## Technology
-We utilise Python, Bash, Swift and Kotlin programming languages to build and automate secure systems.
+We utilise Python, Swift, SwiftUI and Kotlin programming languages to build and automate secure systems.
 
 ## Trademarks
 Tegant™ and Persona Chat AI™ are trademarks of Venus Cloud Ltd.
