@@ -8,7 +8,7 @@ We have specialised in AI (LLM), internet security and scalable cloud architectu
 We utilise Python, Swift, SwiftUI and Kotlin programming languages to build and automate secure systems.
 
 ## Trademarks
-Tegant™ and Persona Chat AI™ are trademarks of Venus Cloud Ltd.
+Tegant™, Persona Chat AI™ and Chasebot™ are trademarks of Venus Cloud Ltd.
 
 Apple, iPhone, iPad, iMac, Mac, and MacBook are trademarks of Apple. Apple has authorised us to use their trademarks within the text of Google sponsored links.
 
