@@ -1,34 +1,69 @@
 ---
-title: "Terms & Conditions"
-description : "This is our terms and conditions"
+title: "Terms and Conditions - Venus Cloud Ltd."
+description : "Terms and Conditions for Venus Cloud Ltd. - Understand your rights and responsibilities when using our services."
 draft: false
 ---
 
-By downloading or using our apps, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Venus Cloud Ltd.
+# Terms and Conditions
 
-Venus Cloud Ltd is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
-The our apps may store and processes minimal personal identifiable data as outlined in the privacy policy under the section "System logs and maintenance" in order to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that our apps won’t work properly or at all.
-You should be aware that there are certain things that Venus Cloud Ltd will not take responsibility for. The app will require to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Venus Cloud Ltd cannot take responsibility for the app not working if you don’t have access to the internet, and you don’t have any of your data allowance left.
+## 1. Introduction
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
-Along the same lines, Venus Cloud Ltd cannot take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Venus Cloud Ltd cannot accept responsibility.
-With respect to Venus Cloud Ltd’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Venus Cloud Ltd accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
-At some point, we may wish to update the app. The app is currently available on iOS/Mac/Android – the requirements for the system (and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Venus Cloud Ltd does not promise that it will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+These Terms and Conditions ("Terms") govern your use of mobile applications ("Apps") developed by Venus Cloud Ltd. (Company Number: 07563716) ("we," "us," or "our"). By downloading, installing, or using our Apps, you agree to be bound by these Terms. If you do not agree to these Terms, do not use our Apps.
 
-### Fair Usage Policy
+## 2. License Grant
 
-We strive to do everything in our power to be fair to all our premium users. Should your downloads bypass our maximum fair usage limit for a given server, we reserve the right to remove that server from your selection list until the end of the month. This will reset at the end of the month, and you will see the full server list once again.
+Venus Cloud Ltd. grants you a limited, non-exclusive, non-transferable, revocable license to use our Apps on compatible devices that you own or control, subject to these Terms and the applicable app store's terms of service (Apple App Store or Google Play Store).
 
-### Violation of Terms
+## 3. Restrictions on Use
 
-By using our apps, you consent to our terms. You agree to not use our apps for the sending of spam, downloading illegal torrents, or scanning for open ports.
+You agree not to, and will not permit others to:
 
-### Changes to This Terms and Conditions
+- License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the Apps;
+- Copy, modify, adapt, translate, make derivative works of, reverse engineer, disassemble, or decompile the Apps or any part thereof;
+- Remove any copyright, trademark, or other proprietary notices from the Apps.
 
-We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.
+## 4. Intellectual Property
 
-### Contact Us
+The Apps, including all content, features, and functionality, are owned by Venus Cloud Ltd. and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us.
+## 5. Third-Party Services and Content
 
-Latest update: 27 January 2023
+Our Apps may display, include, or make available third-party content or provide links to third-party websites or services. We do not control, endorse, or assume responsibility for any third-party content, websites, or services.
+
+## 6. Privacy and Data Collection
+
+Our collection and use of personal information in connection with the Apps is as described in our Privacy Policy, which you can find on our website.
+
+## 7. Updates and Upgrades
+
+We may from time to time develop patches, bug fixes, updates, upgrades, and other modifications to improve the performance of the Apps. You agree that we may update the Apps automatically without providing any additional notice or receiving any additional consent.
+
+## 8. Termination
+
+We may terminate your use of the Apps at any time without notice if you fail to comply with any provision of these Terms. Upon termination, you must destroy all copies of the Apps in your possession.
+
+## 9. Disclaimer of Warranties
+
+THE APPS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND. TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, VENUS CLOUD LTD. DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+## 10. Limitation of Liability
+
+TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL VENUS CLOUD LTD. BE LIABLE FOR PERSONAL INJURY OR ANY INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APPS.
+
+## 11. Indemnification
+
+You agree to indemnify, defend, and hold harmless Venus Cloud Ltd. and its officers, directors, employees, agents, and affiliates from and against any and all claims, damages, obligations, losses, liabilities, costs, and expenses arising from your use of the Apps or your violation of these Terms.
+
+## 12. Governing Law and Jurisdiction
+
+These Terms shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions. Any legal action or proceeding arising under these Terms will be brought exclusively in the courts of England and Wales, and you hereby consent to the personal jurisdiction therein.
+
+## 13. Changes to These Terms
+
+We reserve the right to modify these Terms at any time. If we make changes to these Terms, we will post the revised Terms on our website and update the "Last Updated" date at the top of these Terms. Your continued use of the Apps after the posting of the revised Terms constitutes your acceptance of the changes.
+
+## 14. Contact Information
+
+If you have any questions about these Terms, please use the "Contact Us" link on our website to get in touch with us.
+
+**Last Updated:** 14 Oct 2024
