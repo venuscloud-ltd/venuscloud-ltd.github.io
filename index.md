@@ -13,9 +13,6 @@ Tegant™, Persona Chat AI™, Ask Botty™ and Chasebot™ are trademarks of Ve
 Apple, iPhone, iPad, iMac, Mac, and MacBook are trademarks of Apple. Apple has authorised us to use their trademarks within the text of Google sponsored links.
 
 
-## Contact
-Please get in touch with us at info@venuscloud.com
-
 <br>
 <br>
 <br>
