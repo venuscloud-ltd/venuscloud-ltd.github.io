@@ -77,11 +77,11 @@ The services contained in this section enable the Owner to monitor and analyse w
 
 #### Google Analytics for Firebase (Google Inc.)
 
-Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google's use of Data, consult [Google's partner policy](https://www.google.com/policies/privacy/partners/). Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner. This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service. Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.
+Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google Inc. In order to understand Google's use of Data, consult <a href="https://www.google.com/policies/privacy/partners/" rel="nofollow">Google's partner policy</a>. Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner. This Application uses identifiers for mobile devices (including Android Advertising ID or Advertising Identifier for iOS, respectively) and technologies similar to cookies to run the Firebase Analytics service. Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.
 
 Personal Data collected: Cookies, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and Usage Data.
 
-Place of processing: United States – [Privacy Policy](https://www.google.com/policies/privacy/). Privacy Shield participant.
+Place of processing: United States – <a href="https://www.google.com/policies/privacy/" rel="nofollow">Privacy Policy</a>. Privacy Shield participant.
 
 #### Infrastructure monitoring
 
@@ -93,7 +93,7 @@ Firebase Crash Reporting is a monitoring service provided by Google, Inc.
 
 Personal Data collected: various types of Data as specified in the privacy policy of the service.
 
-Place of processing: United States – [Privacy Policy](https://www.google.com/policies/privacy/). Privacy Shield participant.
+Place of processing: United States – <a href="https://www.google.com/policies/privacy/" rel="nofollow">Privacy Policy</a>. Privacy Shield participant.
 
 #### Crashlytics (Google Inc.)
 
@@ -101,7 +101,7 @@ Crashlytics is an app crash reporting service provided by Google Inc. ("Google")
 
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US – [Privacy Policy](https://try.crashlytics.com/terms/privacy-policy.pdf)
+Place of processing: US – <a href="https://firebase.google.com/support/privacy/" rel="nofollow">Privacy Policy</a>
 
 #### User identification via a universally unique identifier (UUID)
 
