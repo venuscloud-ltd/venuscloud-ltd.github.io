@@ -22,6 +22,7 @@ We utilize Python, Swift, SwiftUI, and Kotlin programming languages to build int
 
 Discover our innovative solutions:
 
+- [AvatarVista™](https://avatarvista.com/)
 - [Tegant™](https://tegant.com/)
 - [Persona Chat AI™](https://personachat.app/)
 - [Ask Botty™](https://ask-botty.com/)
