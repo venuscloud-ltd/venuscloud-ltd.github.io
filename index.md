@@ -26,6 +26,7 @@ Discover our innovative solutions:
 - [Tegant™](https://tegant.com/)
 - [Persona Chat AI™](https://personachat.app/)
 - [Ask Botty™](https://ask-botty.com/)
+- [CallSky™](https://callsky.io/)
 - Chasebot™
 
 *All trademarks are the property of Venus Cloud Ltd.*
